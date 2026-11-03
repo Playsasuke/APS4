@@ -38,4 +38,5 @@ Com o Java JDK instalado, abra um terminal na pasta principal do projeto e execu
 
 O programa apresenta um menu interativo para configuração e realização dos testes.
 
+##
 Projeto desenvolvido para fins acadêmicos, com foco na implementação e análise comparativa de algoritmos de ordenação.
